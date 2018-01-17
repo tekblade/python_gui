@@ -1,3 +1,4 @@
 python_gui.
 Python gui application simulates queue for ex in the bank.
-simple interesting gui(Python/tkinter)
+Simple interesting gui(Python/tkinter).
+Client Vip is placed immediately
