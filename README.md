@@ -1,3 +1,3 @@
-python_gui__
-Python gui application simulates queue for ex in the bank__
-simple interesting gui(tkinter)__
+python_gui.
+Python gui application simulates queue for ex in the bank.
+simple interesting gui(Python/tkinter)
